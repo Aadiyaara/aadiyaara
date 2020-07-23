@@ -45,11 +45,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadiyaara&repo=ninjaproject&theme=dark" />
 
 </a>
-<a href="https://github.com/aadiyaara/Doubtout">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadiyaara&repo=Doubtout&theme=dark" />
+<a href="https://github.com/aadiyaara/doubtoutbackend">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadiyaara&repo=doubtoutbackend&theme=dark" />
 </a>
-<a href="https://github.com/aadiyaara/Attendance-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadiyaara&repo=Attendance-App&theme=dark" />
+<a href="https://github.com/aadiyaara/attendance_app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadiyaara&repo=attendance_app&theme=dark" />
 </a>
 <a href="https://github.com/aadiyaara/bajajhealth-app">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aadiyaara&repo=bajajhealth-app&theme=dark" />
